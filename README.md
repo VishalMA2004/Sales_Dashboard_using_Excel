@@ -1,6 +1,7 @@
 # Sales Dashboard 2024
 
 This repository showcases the **Sales Dashboard for 2024** created in Microsoft Excel. The dashboard provides a comprehensive overview of key sales metrics, offering valuable insights into performance across products, regions, and sales personnel.
+
 ---
 
 ## Dashboard Overview
@@ -10,7 +11,6 @@ This repository showcases the **Sales Dashboard for 2024** created in Microsoft 
 - **Average Sales:** Rs. 4,705
 - **Units Sold:** 38,34,400
 - **Profit:** Rs. 2,58,890
----
 
 ### Sales Breakdown
 - **By Product:**
@@ -22,7 +22,6 @@ This repository showcases the **Sales Dashboard for 2024** created in Microsoft 
 - **By Salesperson:**
   - Top performer: **Anna** (Rs. 19.57L)
   - Lowest performer: **Virginia** (Rs. 5.79L)
-  ---
 
 ### Visualizations Included
 1. **Line Chart:** Units sold by product.
@@ -34,30 +33,44 @@ This repository showcases the **Sales Dashboard for 2024** created in Microsoft 
 
 ## Features
 - **Dynamic Filtering:** Easily filter data by product, salesperson, or region.
-- **Data Visualization:** Interactive and color-coded charts for clear analysis.
-- **User-Friendly Layout:** Simplified interface for quick decision-making.
+- **Interactive Data Visualization:**
+  - Fully responsive design optimized for desktop and mobile devices.
+  - Color-coded charts for easy comprehension.
+- **User-Friendly Layout:**
+  - Intuitive navigation for quick decision-making.
+  - Minimalistic and clean interface for a clutter-free experience.
+
 ---
 
 ## How to Use
 1. Open the Excel file.
-2. Use the dropdown filters to explore specific data points.
-3. Analyze trends using the visualizations.
+2. Utilize the dropdown filters to explore specific data points interactively.
+3. Analyze trends using responsive charts and visualizations.
+4. Use on mobile or desktop devices without compromising usability.
 
 ---
 
 ## Applications
 This dashboard is ideal for:
-- Monitoring sales performance.
-- Identifying top-performing products, regions, and sales personnel.
-- Strategizing sales targets and growth areas.
+- Monitoring sales performance efficiently.
+- Identifying top-performing products, regions, and sales personnel quickly.
+- Strategizing sales targets and growth areas effectively.
+
 ---
 
 ## Preview
 ![Dashboard Preview](./assets/sales_dashboard_2024_preview.png)
+
 ---
 
 ## Contributing
-Feel free to submit suggestions or improvements to make this dashboard more useful.
+Feel free to submit suggestions or improvements to make this dashboard more responsive and functional.
 
 ---
 
+## License
+This project is licensed under the MIT License.
+
+---
+
+For questions or further support, please contact VishalMA2004 (vishalmanickasundaram@gmail.com).
