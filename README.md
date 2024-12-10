@@ -63,9 +63,4 @@ Feel free to submit suggestions or improvements to make this dashboard more resp
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
-
 For questions or further support, please contact VishalMA2004 (vishalmanickasundaram@gmail.com).
