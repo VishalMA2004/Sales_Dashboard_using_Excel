@@ -58,11 +58,6 @@ This dashboard is ideal for:
 
 ---
 
-## Preview
-![Dashboard Preview](./assets/sales_dashboard_2024_preview.png)
-
----
-
 ## Contributing
 Feel free to submit suggestions or improvements to make this dashboard more responsive and functional.
 
